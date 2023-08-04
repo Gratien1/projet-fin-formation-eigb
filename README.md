@@ -1,7 +1,5 @@
-[Title](<../Projet de fin de formation, Programme EIG-IFRI SESSION  8 Développement WEB.docx (5) (1) (2).pdf>)
-
 BRIEF PROJET FIN FORMATION
-PROJET Certification formation continue
+PROJET Certification formation
 Développement Front-end
 Durée du projet
 Deux semainesCONTEXTE
@@ -39,24 +37,4 @@ Vendredi 09 Juin 2023 avant 18h
 Présentation du rendu (Soutenance)
 Lundi à 12 Juin 2023
 Plus de détails : voir monsieur le directeur pédagogique
-Ulriche AZONGBE, Responsable pédagogique EIG.
-Vos livrables sont attendus au plus tard
-à l’adresse :
-directionpedagogique@eiggroupe.comEt en version physique au secrétariat de eig-bénin (Immeuble
-EIG)
-Avec pour objet : PROJET Certification formation continue
-Critères d’évaluation
-Evaluation du frontend : /20
-Cohérence des pages ou
-sections /10
-Expérience utilisateur /10
-Evaluation du projet : /20
-Système fonctionnel /10
-Code lisible et bien formater/ Code bien factorisé /10
-MALUS
--2 point pour l’orthographe
--2 point pour le non-respect des consignesFaites preuve de créativité
-Téléphone et autres informations
-● Contact : +229 32 33 34 39 / +221 33 34 35 36 37
-● Email : contact@mastructure.com
-● Adresse : Calavi, Immeuble R8799 appartement 1 et 2, Bénin
+[Title](<../Projet de fin de formation, Programme EIG-IFRI SESSION  8 Développement WEB.docx (5) (1) (2).pdf>)
